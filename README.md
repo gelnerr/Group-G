@@ -1,7 +1,6 @@
 # Group - G
-## ENSE 271 Project Portfolio for Group G 
+## ENSE 271 Project Portfolio for Group G ![image](https://github.com/user-attachments/assets/d2acd3b8-b639-4bee-9878-009354dac8df)
 
-![image](https://github.com/user-attachments/assets/9a1709dc-bf84-4d6b-aa15-39d312670951)
 ### Team Members:
  * Amira
  * Sarah
