@@ -11,7 +11,7 @@
   * TBD :p
 
 ## Team Members:
- * Amira
- * Sarah
- * Jaydon
- * Glen
+ * Amira Corcino
+ * Sarah Panga
+ * Jaydon Forrester
+ * Glen Issac
