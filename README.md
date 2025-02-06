@@ -5,7 +5,7 @@
 </p>
 
 ### Team Members:
- * Amira
- * Sarah
- * Jaydon
- * Glen
+ * Amira Corcino
+ * Glen Isaac
+ * Jaydon Forrester
+ * Sarah Panga
