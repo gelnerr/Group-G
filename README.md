@@ -11,7 +11,7 @@
   | [Activity 1](https://github.com/gelnerr/Group-G/tree/main/Design%20Stage%20-%20Low%20Fidelity%20Prototype) | Design Stage - Low Fidelity Prototype |
   | [Activity 2](https://github.com/gelnerr/Group-G/tree/main/High%20Fidelity%20Prototype) | High Fidelity Prototype |
   | [Activity 3](https://github.com/gelnerr/Group-G/tree/main/Wordpress%20In-Progress) | Wordpress Progress Check in |
-  | [Activity 4]() | Final Deliverables and Website |
+  | [Activity 4](https://github.com/gelnerr/Group-G/tree/main/Final%20Wordpress%20Solution) | Final Deliverables and Website |
   
 </div>
 
